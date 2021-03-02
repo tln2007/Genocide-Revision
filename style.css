@@ -1,0 +1,77 @@
+body {
+  background-color: red;
+  padding: 0;
+  margin: 0;
+}
+
+#title {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 7vw;
+}
+
+#menu {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 70%;
+  margin: 4vw;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2.5vw;
+  word-spacing: 2vw;
+}
+
+/* CSS properties of the links in the navbar */
+a{
+  text-decoration: none;
+  color:white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color:yellow;
+}
+
+#location {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 3vw;
+}
+
+#who {
+  color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  text-align: justify;
+  font-size: 2vw;
+  font-family: 'Lato', sans-serif;
+}
+
+#what {
+  color: white;
+  margin-left: 3%;
+  margin-right: 3%;
+  text-align: justify;
+  font-size: 2vw;
+  font-family: 'Lato', sans-serif;
+}
+
+#resources {
+  font-family: 'Fjalla One', sans-serif;
+  color: yellow;
+  text-align: center;
+  font-size: 4vw;
+}
+
+#carrdLink {
+  color: white;
+  text-align: center;
+  font-size: 2vw;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  color: yellow;
+}
